@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\bin\Debug\LabT1.exe.config
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\bin\Debug\LabT1.exe
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\bin\Debug\LabT1.pdb
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.Form1.resources
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.Properties.Resources.resources
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.exe
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.pdb
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.Form2.resources
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.Form3.resources
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.Form4.resources
+C:\Users\PC\Desktop\lapc#\LabT1\LabT1\obj\Debug\LabT1.csproj.SuggestedBindingRedirects.cache
